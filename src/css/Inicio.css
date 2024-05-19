@@ -1,0 +1,75 @@
+.minH {
+    min-height: 80vh !important;
+}
+
+.encabezado {
+    margin:50px 0;
+    text-align: justify;
+}
+
+.centerContent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+/* ====== Animacion de Portafolios UPG ====== */
+
+div.textStrike {
+    position: relative;
+}
+
+.textStrikeView {
+    width: 100%;
+    color: transparent;
+}
+
+.textStrikeView::before {
+    content: "";
+    position: absolute;
+    color: black;
+    width: 0;
+    height: 100%;
+    overflow: hidden;
+    transition: 1s;
+    border-right: 8px solid black;
+    animation: curio 4s ease-in-out infinite;
+    text-align: left;
+}
+
+@keyframes curio {
+    0%{
+        content: "Bienvenido a Portafolios UPG.";
+        width: 0%;
+    }
+    10%{
+        content: "Bienvenido a Portafolios UPG.";
+        width: 100%;
+    }
+    45%{
+        content: "Bienvenido a Portafolios UPG.";
+        width: 100%;
+    }
+    55%{
+        content: "Bienvenido a Portafolios UPG.";
+        width: 0%;
+    }
+    56%{
+        content: "Bienvenido a tú Comunidad.";
+        width: 0%;
+    }
+    65%{
+        content: "Bienvenido a tú Comunidad.";
+        width: 100%;
+    }
+    90%{
+        content: "Bienvenido a tú Comunidad.";
+        width: 100%;
+    }
+    100%{
+        content: "Bienvenido a tú Comunidad.";
+        width: 0%;
+    }
+}

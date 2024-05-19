@@ -1,0 +1,364 @@
+[{
+        "name": "Nora Leticia Martínez Martínez",
+        "nick": "Nora",
+        "carrusel": "no",
+        "genero": "m",
+        "perfil": "https://portafoliosupg.com/imagenes/perfil/noramtz/perfil.jpg",
+        "img": "https://portafoliosupg.com/imagenes/perfil/noramtz/portada.jpg",
+        "lic": "Lic Diseño Gráfico Publicitario",
+        "tetra": "5to Tetramestre",
+        "pro": "Creativa, soy dedicada, cuando empiezo algo no paro hasta terminarlo, perfeccionista, me gusta saber detalles sobre lo que la gente busca en los trabajos que quieren que realice, me gusta utilizar colores.",
+        "linkText": "Portafolio Web",
+        "link": "https://noramtz.portafoliosupg.com",
+        "status": "Buscando",
+        "contacto": {
+            "tel": "",
+            "mail": "noramtz001@hotmail.com"
+        },
+        "galeria": [
+
+        ]
+    },
+    {
+        "name": "Abraham Alvarez Rodriguez",
+        "nick": "Abraham",
+        "carrusel": "no",
+        "genero": "h",
+        "perfil": "https://portafoliosupg.com/imagenes/perfil/abraham/perfil.jpeg",
+        "img": "https://portafoliosupg.com/imagenes/ca2.jpg",
+        "lic": "Lic Diseño Gráfico Publicitario",
+        "tetra": "5to Tetramestre",
+        "pro": "Hola soy una persona muy responsable y comprometida en mis tiempos libres me dedico a jugar beisbol y hacer otro tipo de deportes mis hobbies suelen ser jugar xbox ver series o peliculas ",
+        "linkText": "Portafolio Web",
+        "link": "https://abraham.portafoliosupg.com",
+        "status": "Buscando",
+        "contacto": {
+            "tel": "8112999214",
+            "mail": "abrahamalvarezrodriguez29@gmail.com"
+        },
+        "galeria": [
+
+        ]
+    },
+    {
+        "name": "Hector Daniel Lopez Gonzalez",
+        "nick": "Danny",
+        "carrusel": "no",
+        "genero": "h",
+        "perfil": "",
+        "img": "https://portafoliosupg.com/imagenes/perfil/hdanny/portada.jpg",
+        "lic": "Lic Diseño Gráfico Publicitario",
+        "tetra": "5to Tetramestre",
+        "pro": "Hola, soy una persona alegre y creativa, me gusta mucho hacer ilustraciones físicas,digitales y hacer modelados de personajes en 3D, me gusta el manga, los cómics, el anime, los videojuegos, los autos y las motos.",
+        "linkText": "Portafolio Web",
+        "link": "https://hdanny.portafoliosupg.com",
+        "status": "Buscando",
+        "contacto": {
+            "tel": "8120065804",
+            "mail": "hece.danny@gmail.com"
+        },
+        "galeria": [{
+                "imgName": "https://portafoliosupg.com/imagenes/perfil/hdanny/galeria1.png",
+                "title": "Sin Titulo"
+            },
+            {
+                "imgName": "https://portafoliosupg.com/imagenes/perfil/hdanny/galeria2.JPG",
+                "title": "Sin Titulo"
+            },
+            {
+                "imgName": "https://portafoliosupg.com/imagenes/perfil/hdanny/galeria3.JPG",
+                "title": "Sin Titulo"
+            },
+            {
+                "imgName": "https://portafoliosupg.com/imagenes/perfil/hdanny/galeria4.png",
+                "title": "Sin Titulo"
+            },
+            {
+                "imgName": "https://portafoliosupg.com/imagenes/perfil/hdanny/galeria5.png",
+                "title": "Sin Titulo"
+            },
+            {
+                "imgName": "https://portafoliosupg.com/imagenes/perfil/hdanny/galeria6.png",
+                "title": "Sin Titulo"
+            }
+        ]
+    },
+    {
+        "name": "Esmeralda Lucero Alonso Méndez  ",
+        "nick": "EmeAlonzo",
+        "carrusel": "si",
+        "genero": "m",
+        "perfil": "https://portafoliosupg.com/imagenes/perfil/emealonzo/perfil.jpg",
+        "img": "https://portafoliosupg.com/imagenes/perfil/emealonzo/galeria4.jpg",
+        "lic": "Lic Diseño Gráfico Publicitario",
+        "tetra": "5to Tetramestre",
+        "pro": "Soy una persona que le apasiona la ilustración en estilo de caricatura  que disfruta realizar dibujos de la misma índole.",
+        "linkText": "Portafolio Web",
+        "link": "https://emealonzo.portafoliosupg.com",
+        "status": "Buscando",
+        "contacto": {
+            "tel": "8184584309",
+            "mail": "No Encontrado"
+        },
+        "galeria": [{
+                "imgName": "https://portafoliosupg.com/imagenes/perfil/emealonzo/galeria1.jpg",
+                "title": "Sin Titulo"
+            },
+            {
+                "imgName": "https://portafoliosupg.com/imagenes/perfil/emealonzo/galeria2.jpg",
+                "title": "Sin Titulo"
+            },
+            {
+                "imgName": "https://portafoliosupg.com/imagenes/perfil/emealonzo/galeria3.jpg",
+                "title": "Sin Titulo"
+            },
+            {
+                "imgName": "https://portafoliosupg.com/imagenes/perfil/emealonzo/galeria4.jpg",
+                "title": "Sin Titulo"
+            },
+            {
+                "imgName": "https://portafoliosupg.com/imagenes/perfil/emealonzo/galeria5.jpg",
+                "title": "Sin Titulo"
+            }
+        ]
+    },
+    {
+        "name": "Adolfo Abdiel Ramirez Aldana",
+        "nick": "Abdiel",
+        "carrusel": "si",
+        "genero": "h",
+        "perfil": "https://portafoliosupg.com/imagenes/perfil/abdiel/perfil.jpg",
+        "img": "https://portafoliosupg.com/imagenes/perfil/abdiel/portada.jpg",
+        "lic": "Lic Diseño Gráfico",
+        "tetra": "Profesor",
+        "pro": "Soy chido, aveces no tengo ganas de nada",
+        "linkText": "abdielaldana.com",
+        "link": "https://abdielaldana.com",
+        "status": "No Buscando",
+        "contacto": {
+            "tel": "8129072892",
+            "mail": "abdielaldanadg@gmail.com"
+        },
+        "habilidades" : [
+            "Ilustrador", "Photoshop", "HTML5", "CSS3", "JavaScript", "ReactJS", "Bootstrap", "Wordpress", "Fotografia", "Ilustracion Digital", "Excel", "Scrum"
+        ],
+        "galeria": [{
+                "imgName": "https://portafoliosupg.com/imagenes/perfil/abdiel/galeria1.jpg",
+                "title": "Fundidora"
+            },
+            {
+                "imgName": "https://portafoliosupg.com/imagenes/perfil/abdiel/galeria2.jpg",
+                "title": "Galaxia"
+            },
+            {
+                "imgName": "https://portafoliosupg.com/imagenes/perfil/abdiel/galeria3.jpg",
+                "title": "Dibujo a lapiz"
+            },
+            {
+                "imgName": "https://portafoliosupg.com/imagenes/perfil/abdiel/galeria4.jpg",
+                "title": "Mapa D&D"
+            },
+            {
+                "imgName": "https://portafoliosupg.com/imagenes/perfil/abdiel/galeria5.jpg",
+                "title": "Dibujo sencillo"
+            }
+        ]
+    },
+    {
+        "name": "Ángeles Estefanía García Rodríguez ",
+        "nick": "Angeles",
+        "carrusel": "si",
+        "genero": "m",
+        "perfil": "https://portafoliosupg.com/imagenes/perfil/angelesgarcia/perfiljpeg.jpeg",
+        "img": "https://portafoliosupg.com/imagenes/perfil/angelesgarcia/galeria4.jpg",
+        "lic": "Lic Diseño Gráfico Publicitario",
+        "tetra": "5to Tetramestre",
+        "pro": "Me considero una persona muy creativa y llena de muchas ideas al momento de realizar una ilustración o una identidad cuando realizó tareas y trabajos  que es lo que más se me facilita realizar. Son una persona responsable en base a entregar los trabajos y tareas, en la puntualidad y en mi vida personal.",
+        "linkText": "Portafolio Web",
+        "link": "https://angelesgarcia.portafoliosupg.com",
+        "status": "No Buscando",
+        "contacto": {
+            "tel": "8116088498",
+            "mail": "angiegardz@gmail.com"
+        },
+        "galeria": [{
+                "imgName": "https://portafoliosupg.com/imagenes/perfil/angelesgarcia/galeria1.jpg",
+                "title": "Sin Titulo"
+            },
+            {
+                "imgName": "https://portafoliosupg.com/imagenes/perfil/angelesgarcia/galeria2.jpg",
+                "title": "Sin Titulo"
+            },
+            {
+                "imgName": "https://portafoliosupg.com/imagenes/perfil/angelesgarcia/galeria3.jpg",
+                "title": "Sin Titulo"
+            },
+            {
+                "imgName": "https://portafoliosupg.com/imagenes/perfil/angelesgarcia/galeria4.jpg",
+                "title": "Sin Titulo"
+            },
+            {
+                "imgName": "https://portafoliosupg.com/imagenes/perfil/angelesgarcia/galeria5.jpg",
+                "title": "Sin Titulo"
+            },
+            {
+                "imgName": "https://portafoliosupg.com/imagenes/perfil/angelesgarcia/galeria6.jpg",
+                "title": "Sin Titulo"
+            }
+        ]
+    },
+    {
+        "name": "Jose Angel Arredondo Garcia",
+        "nick": "Angel",
+        "carrusel": "no",
+        "genero": "h",
+        "perfil": "https://portafoliosupg.com/imagenes/perfil/angel/perfil.PNG",
+        "img": "https://portafoliosupg.com/imagenes/perfil/angel/portada.PNG",
+        "lic": "Lic Diseño Gráfico Publicitario",
+        "tetra": "5to Tetramestre",
+        "pro": "Soy un estudiante de 22 años que quiere aprender de lo que me interesa para así volverse un experto en un futuro.",
+        "linkText": "Portafolio Web",
+        "link": "https://angel.portafoliosupg.com",
+        "status": "No Buscando",
+        "contacto": {
+            "tel": "No Encontrado",
+            "mail": "joseangelarredondo@gmail.com "
+        },
+        "galeria": [{
+                "imgName": "https://portafoliosupg.com/imagenes/perfil/angel/galeria1.jpg",
+                "title": "Sin Titulo"
+            },
+            {
+                "imgName": "https://portafoliosupg.com/imagenes/perfil/angel/galeria2.jpg",
+                "title": "Sin Titulo"
+            },
+            {
+                "imgName": "https://portafoliosupg.com/imagenes/perfil/angel/galeria3.jpg",
+                "title": "Sin Titulo"
+            },
+            {
+                "imgName": "https://portafoliosupg.com/imagenes/perfil/angel/galeria4.png",
+                "title": "Sin Titulo"
+            },
+            {
+                "imgName": "https://portafoliosupg.com/imagenes/perfil/angel/galeria5.jpg",
+                "title": "Sin Titulo"
+            }
+        ]
+    },
+    {
+        "name": "Andrea Sarahi Escobedo Esquivel",
+        "nick": "ArtysLove",
+        "carrusel": "si",
+        "genero": "m",
+        "perfil": "https://portafoliosupg.com/imagenes/perfil/artyslove/perfil.jpg",
+        "img": "https://portafoliosupg.com/imagenes/perfil/artyslove/portada.jpg",
+        "lic": "Lic Diseño Gráfico Publicitario",
+        "tetra": "4to Tetramestre",
+        "pro": "Me considero una persona trabajadora, responsable y creativa al momento de hacer algún trabajo e ilustración, teniendo como meta llegar a ser reconocida por mi trabajo y así poder vivir de ello. No me agrada la gente, pero aún así doy mi mejor cara y conducta:D ",
+        "linkText": "Portafolio Web",
+        "link": "https://andyescobedo.portafoliosupg.com",
+        "status": "Buscando",
+        "contacto": {
+            "tel": "8127604115",
+            "mail": "escobedoandrea77@gmail.com"
+        },
+        "galeria": [{
+                "imgName": "https://portafoliosupg.com/imagenes/perfil/artyslove/galeria 1.jpg",
+                "title": "Sin Titulo"
+            },
+            {
+                "imgName": "https://portafoliosupg.com/imagenes/perfil/artyslove/galeria 2.jpg",
+                "title": "Sin Titulo"
+            },
+            {
+                "imgName": "https://portafoliosupg.com/imagenes/perfil/artyslove/galeria 3.jpg",
+                "title": "Sin Titulo"
+            },
+            {
+                "imgName": "https://portafoliosupg.com/imagenes/perfil/artyslove/galeria 4.jpg",
+                "title": "Sin Titulo"
+            },
+            {
+                "imgName": "https://portafoliosupg.com/imagenes/perfil/artyslove/galeria 5.jpg",
+                "title": "Sin Titulo"
+            },
+            {
+                "imgName": "https://portafoliosupg.com/imagenes/perfil/artyslove/galeria 6.jpg",
+                "title": "Sin Titulo"
+            },
+            {
+                "imgName": "https://portafoliosupg.com/imagenes/perfil/artyslove/galeria 7.png",
+                "title": "Sin Titulo"
+            },
+            {
+                "imgName": "https://portafoliosupg.com/imagenes/perfil/artyslove/galeria 8.png",
+                "title": "Sin Titulo"
+            },
+            {
+                "imgName": "https://portafoliosupg.com/imagenes/perfil/artyslove/galeria 9.jpg",
+                "title": "Sin Titulo"
+            }
+        ]
+    },
+    {
+        "name": "Angel Alejandro Urrutia Arce",
+        "nick": "Engel",
+        "carrusel": "si",
+        "genero": "h",
+        "perfil": "https://portafoliosupg.com/imagenes/perfil/angelurrutia/perfil.jpg",
+        "img": "https://portafoliosupg.com/imagenes/perfil/angelurrutia/portada.jpg",
+        "lic": "Lic Diseño Gráfico Publicitario",
+        "tetra": "4to Tetramestre",
+        "pro": "Soy estudiante de la carrera de diseño gráfico publicitario. Siempre tengo una variedad de ideas para proyectos, me gusta aprender cosas nuevas, diseñar, dibujar y siempre estoy dispuesto a trabajar y esforzarme.",
+        "linkText": "Portafolio Web",
+        "link": "https://angelurrutia.portafoliosupg.com",
+        "status": "Buscando",
+        "contacto": {
+            "tel": "8131962049",
+            "mail": "angelurrutia044@gmail.com"
+        },
+        "galeria": [
+            {
+                "imgName": "https://portafoliosupg.com/imagenes/perfil/angelurrutia/Galeria 1.jpg",
+                "title": "Sin Titulo"
+            },
+            {
+                "imgName": "https://portafoliosupg.com/imagenes/perfil/angelurrutia/Galeria 2.jpg",
+                "title": "Sin Titulo"
+            },
+            {
+                "imgName": "https://portafoliosupg.com/imagenes/perfil/angelurrutia/Galeria 3.jpg",
+                "title": "Sin Titulo"
+            },
+            {
+                "imgName": "https://portafoliosupg.com/imagenes/perfil/angelurrutia/Galeria 4.jpg",
+                "title": "Sin Titulo"
+            },
+            {
+                "imgName": "https://portafoliosupg.com/imagenes/perfil/angelurrutia/Galeria 5.jpg",
+                "title": "Sin Titulo"
+            },
+            {
+                "imgName": "https://portafoliosupg.com/imagenes/perfil/angelurrutia/Galeria 6.jpg",
+                "title": "Sin Titulo"
+            },
+            {
+                "imgName": "https://portafoliosupg.com/imagenes/perfil/angelurrutia/Galeria 7.jpg",
+                "title": "Sin Titulo"
+            },
+            {
+                "imgName": "https://portafoliosupg.com/imagenes/perfil/angelurrutia/Galeria 8.jpg",
+                "title": "Sin Titulo"
+            },
+            {
+                "imgName": "https://portafoliosupg.com/imagenes/perfil/angelurrutia/Galeria 9.jpg",
+                "title": "Sin Titulo"
+            },
+            {
+                "imgName": "https://portafoliosupg.com/imagenes/perfil/angelurrutia/Galeria 10.jpg",
+                "title": "Sin Titulo"
+            }
+        ]
+    }
+]

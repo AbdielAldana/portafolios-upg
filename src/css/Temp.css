@@ -1,0 +1,442 @@
+
+
+.linkApp {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.linkApp span{
+    color: rgba(255, 255, 255, 0.525);
+    font-size: 18px;
+}
+
+
+
+
+
+.centerContent2 {
+    display: flex !important;
+    width: inherit;
+    align-items: center;
+    margin: 0px !important;
+    justify-content: space-around;
+    padding-bottom: 50px;
+}
+
+
+
+
+.alertStyle {
+    position: absolute !important;
+    bottom: 10px;
+    right: 10px;
+
+}
+
+.introAlert {
+    /* position: absolute !important; */
+    transform: translateY(-20px) opacity(1);
+    animation: inalert 5s ease;
+}
+
+@keyframes inalert {
+    0% {
+        transform: translateY(-50px) opacity(1);
+    }
+    100% {
+        transform: translateY(0px) opacity(0);
+    }
+}
+
+
+
+
+
+
+
+
+
+/* .gallery {
+    position: absolute;
+    padding: 30px 0;
+    top: 76px;
+    left: 0;
+    width: 100%;
+    height: calc(100vh - 76px);
+    background-color: white;
+    z-index: 2;
+} */
+
+.Buscando {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+    background-color: rgb(4, 222, 0);
+    box-shadow: 0px 0px 0px 1px rgba(0, 0, 0, 0.773);
+}
+.No_Buscando {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+    background-color: rgb(255, 60, 0);
+    box-shadow: 0px 0px 0px 1px rgba(0, 0, 0, 0.773);
+}
+
+.f_end {
+    display: flex;
+    justify-content: flex-end;
+    flex-grow: 0 !important;
+    width: 100%;
+}
+
+.text_ellipsis {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 100%;
+    margin: 0px;
+    overflow: hidden;
+}
+
+
+
+.linkh {
+    cursor: pointer;
+    color: white;
+}
+
+.linkh:hover {
+    color: rgb(186, 186, 186);
+}
+
+
+
+
+
+
+
+
+
+
+
+/* Card Directorio */
+.modal {
+    z-index: 99999 !important;
+}
+
+
+.userBar {
+    padding: 10px 0;
+}
+.userBar:hover {
+    cursor: pointer;
+    background-color: rgba(208, 208, 208, 0.215);
+}
+
+.cardDirectorio {
+    /* background-color: red; */
+    width: 100%;
+    height: auto;
+    /* margin: 20px 0; */
+}
+
+.letter {
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+    /* width: fit-content; */
+    /* text-align: center; */
+}
+
+.contentCard h4, .contentCard h6 {
+    margin: 0px !important;
+}
+.contentCard {
+    display: flex !important;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+a.iconLink {
+    margin-right: 0px !important;
+}
+p.iconLink {
+    margin-bottom: 0px !important;
+}
+.iconLink {
+    /* padding: 0 !important; */
+    /* margin: 0 !important; */
+    margin-right: 0px !important;
+    font-size: 18px;
+    text-decoration: none;
+    color: #575757;
+}
+
+.buttonIcon:hover {
+    background-color: #0d0909;
+    color: white;
+    cursor: pointer;
+}
+.buttonIcon {
+    transition: .2s;
+    padding: 5px 15px;
+    border: solid 1px #575757;
+    text-align: center;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.buttonIcon.first {
+    margin-bottom: 10px;
+}
+
+
+/* BLOG */
+
+.seccionBlog {
+    border: solid 1px gray;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+
+.etiquetasBox {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.etiquetaNombre {
+    padding: 5px 10px;
+    border: solid 1px gray;
+    font-size: 16px;
+    color: gray;
+    margin: 5px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.fs-12 {
+    font-size: 12px;
+}
+
+.etiquetaNombre:hover{
+    color: white;
+    background-color: gray;
+}
+    
+
+/* Filtros */
+
+.filtroTitle {
+    color: gray;
+    margin-bottom: 10px;
+    flex-wrap: wrap;
+}
+
+.filtroTitle h4 {
+    margin: 0px;
+    /* margin-right: 10px; */
+    margin-left: 10px;
+}
+
+.filtroTitle span {
+    color: black;
+    margin-left: 10px;
+    font-size: 18px;
+}
+
+.titlePostCard {
+    display: flex;
+    justify-content: flex-start;
+    align-items: baseline;
+}
+
+.titlePostCardSecondary {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+/* Not Found!!!!! */
+
+.notFound {
+    max-width: 500px !important;
+    width: 100% !important;
+    height: 50vh;
+    position: relative;
+    margin: 80px auto !important;
+    z-index: 999;
+    /* overflow-x: hidden; */
+    /* position: absolute; */
+}
+
+.notFound .other{
+    backdrop-filter: blur(5px);
+    clip-path: circle(26% at 38% 38%);
+    width: 140px;
+    height: 140px;
+    background-color: transparent;
+    position: absolute;
+    z-index: 0;
+    top: 10px;
+    left: 0;
+    animation: notfoundAnimation2 4s infinite ease;
+}
+
+.notFound::after{
+    content: "SIN RESULTADOS";
+    font-weight: bold;
+    position: absolute;
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+    font-size: 2em;
+}
+
+.notFound .iconNotFound{
+    position: absolute;
+    font-size: 140px;
+    top: 10px;
+    left: 0;
+    animation: notfoundAnimation 4s infinite ease;
+}
+
+.notFound::before{
+    content: "XXXXXXXXXX XXX";
+    font-weight: bold;
+    position: absolute;
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+    font-size: 2em;
+}
+
+@keyframes notfoundAnimation {
+    0% {
+        /* backdrop-filter: blur(1px); */
+        left: 0;
+        -webkit-filter: drop-shadow(-8px 8px 2px #38383880);
+        transform: rotate(0deg) scale(.8);
+    }
+    25% {
+        /* backdrop-filter: blur(5px); */
+        -webkit-filter: drop-shadow(18px 18px 5px #38383850);
+        transform:rotate(45deg) scale(3);
+    }
+    50% {
+        /* backdrop-filter: blur(1px); */
+        -webkit-filter: drop-shadow(8px -8px 2px #38383880);
+        left: calc(100% - 140px);
+        transform: rotate(90deg) scale(.8);
+    }
+    75% {
+        /* backdrop-filter: blur(5px); */
+        -webkit-filter: drop-shadow(18px 18px 5px #38383850);
+        transform:rotate(45deg) scale(3);
+    }
+    100% {
+        /* backdrop-filter: blur(1px); */
+        left: 0;
+        -webkit-filter: drop-shadow(-8px 8px 2px #38383880);
+        transform: rotate(0deg) scale(.8);
+    }
+}
+@keyframes notfoundAnimation2 {
+    0% {
+        backdrop-filter: blur(1px);
+        left: 0;
+        -webkit-filter: drop-shadow(-8px 8px 2px #38383880);
+        transform: rotate(0deg) scale(.8);
+    }
+    25% {
+        backdrop-filter: blur(5px);
+        -webkit-filter: drop-shadow(18px 18px 5px #38383850);
+        transform:rotate(45deg) scale(3);
+    }
+    50% {
+        backdrop-filter: blur(1px);
+        -webkit-filter: drop-shadow(8px -8px 2px #38383880);
+        left: calc(100% - 140px);
+        transform: rotate(90deg) scale(.8);
+    }
+    75% {
+        backdrop-filter: blur(5px);
+        -webkit-filter: drop-shadow(18px 18px 5px #38383850);
+        transform:rotate(45deg) scale(3);
+    }
+    100% {
+        backdrop-filter: blur(1px);
+        left: 0;
+        -webkit-filter: drop-shadow(-8px 8px 2px #38383880);
+        transform: rotate(0deg) scale(.8);
+    }
+}
+
+
+/* ==== BLOG ==== */
+
+.imagneDestacadaBlog {
+    height: 100px;
+    width: 100%;
+    background-size: cover;
+}
+
+.imagneDestacadaBlogs {
+    height: 200px;
+    margin-bottom: 20px;
+    width: 100%;
+    background-size: cover;
+}
+
+.parrafoInicialBlog {
+    text-align: justify;
+}
+
+/* === Card Modal User === */
+
+.fotoPerfilModal {
+    border-radius: 100%;
+    border: solid 5px white;
+    height: 200px;
+    width: 200px;
+    margin: -100px auto 0 auto;
+    background-color: #949494;
+}
+
+div.fotoPerfilModal::after {
+    content: "?";
+    font-size: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: calc(100% - 5px);
+    color: white;
+    font-weight: bold;
+}
+
+/* HABILIDADES */
+
+.habilidadesShow {
+    display: flex;
+    flex-wrap: wrap;
+}
+.habilidadesShow div {
+    margin: 5px 10px;
+}
+.habilidadesShow div:hover {
+    color: blue;
+    cursor: default;
+    font-weight: bold;
+}
